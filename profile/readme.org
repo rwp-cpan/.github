@@ -1,3 +1,6 @@
 * RWP CPAN
 
 GitHub organization behind [[https://metacpan.org/author/RWP][RWP CPAN Perl distributions]].
+
+- Subscribe to our MetaCPAN [[https://metacpan.org/author/RWP/activity.rss][RSS feed]]
+- See [[https://cpants.cpanauthors.org/author/RWP][CPANTS Kwalitee]] reports of our distributions 
